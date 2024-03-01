@@ -1,0 +1,22 @@
+name: Run scraper every hour
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Run every hour
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x  # Specify your Python version
+
+    - name: Run script
+      run: |
+        python scrapper.py  # Replace with the actual filename of your script
