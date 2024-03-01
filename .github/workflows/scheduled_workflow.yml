@@ -2,7 +2,7 @@ name: Run scraper every hour Monday through Friday 7am-9pm
 
 on:
   schedule:
-    - cron: '0 7-20 * * 1-5'  #run every weekday (Monday through Friday) between 7 am and 9 pm
+    - cron: '*/15 7-21 * * 1-5'  #run every weekday (Monday through Friday) between 7 am and 9 pm
   workflow_dispatch:  # Manually trigger the workflow
 
 jobs:
