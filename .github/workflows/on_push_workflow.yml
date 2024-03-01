@@ -24,9 +24,12 @@ jobs:
 
       - name: Send Notification
         run: |
+          # Custom notification message
+          CUSTOM_MESSAGE="NEW LISTINGS!"
+
           # Use your GitHub token to create a status or check run
           curl -X POST \
             -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/repos/${{ github.repository }}/statuses/${{ github.sha }} \
-            -d '{"state": "success", "context": "notification", "description": "Notification sent"}'
+            -d "{\"state\": \"success\", \"context\": \"custom-notification\", \"description\": \"$CUSTOM_MESSAGE\"}"
