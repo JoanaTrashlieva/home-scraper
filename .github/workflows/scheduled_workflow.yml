@@ -3,6 +3,7 @@ name: Run scraper every hour
 on:
   schedule:
     - cron: '0 * * * *'  # Run every hour
+  workflow_dispatch:  # Manually trigger the workflow
 
 jobs:
   run-script:
