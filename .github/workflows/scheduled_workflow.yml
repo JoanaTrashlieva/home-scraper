@@ -30,7 +30,3 @@ jobs:
         pwd: ${{ secrets.SCRAPER_PWD }}
       run: |
         python scraper.py
-
-    - name: Terminate background processes
-      run: |
-        pkill -f scraper.py
