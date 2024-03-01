@@ -1,2 +1,2 @@
-# home-scrapper
-Python tool to automatically scrape a two websites for housing in the NL for new posts
+# home-scraper
+Python tool to automatically scrape a multiple websites for housing in the NL for new posts.
