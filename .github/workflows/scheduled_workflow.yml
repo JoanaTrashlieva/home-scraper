@@ -18,6 +18,13 @@ jobs:
       with:
         python-version: 3.x  # Specify your Python version
 
+    - name: Install Python packages
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+        pip install bs4
+
+
     - name: Run script
       run: |
         python scraper.py  # Replace with the actual filename of your script
