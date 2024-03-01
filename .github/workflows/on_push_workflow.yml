@@ -1,3 +1,6 @@
+name: Send notification on file update
+
+
 on:
   push:
     branches:
