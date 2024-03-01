@@ -1,6 +1,11 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import datetime
+
+# Print the current date and time
+current_date_time = datetime.datetime.now()
+print("File last ran on:", current_date_time)  
 
 # URL of the website you want to scrape
 pararius_base_url = "https://www.pararius.com/apartments/leiden/700-1500"
@@ -26,7 +31,6 @@ if not logged_in:
         "password": pararius_credentials["password"]
     }
 
-    print(login_data)
     login_response = requests.post(login_url, data=login_data)
     
     # Check if login was successful
@@ -41,7 +45,8 @@ soup = BeautifulSoup(response.content, "html.parser")
  
 # Find the elements containing the posts
 post_elements = soup.find_all("li", class_="search-list__item search-list__item--listing")
+
 # Iterate over the post elements and extract the necessary information
 for post in post_elements:
     title = post.find("h2").text
-    print(title)    
+    print("Title:", title)
