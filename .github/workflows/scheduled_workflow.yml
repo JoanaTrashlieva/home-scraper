@@ -26,5 +26,8 @@ jobs:
 
 
     - name: Run script
+      env: # Or as an environment variable
+        uname: ${{ secrets.SCRAPER_UNAME }}
+        pwd: ${{ secrets.SCRAPER_PWD }}
       run: |
         python scraper.py  # Replace with the actual filename of your script

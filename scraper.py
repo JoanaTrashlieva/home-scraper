@@ -2,6 +2,12 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import datetime
+import os
+
+# Load credentials from environment variables
+uname = os.environ.get('SCRAPER_UNAME')
+pwd = os.environ.get('SCRAPER_PWD')
+
 
 # Print the current date and time
 current_date_time = datetime.datetime.now()
@@ -21,15 +27,11 @@ if not logged_in:
     # Log in to the website
     login_url = "https://www.pararius.com/login"
     
-    # Load credentials from a separate file
-    with open("creds.json") as f:
-        credentials = json.load(f)
-        
-    pararius_credentials = credentials.get("pararius")
     login_data = {
-        "username": pararius_credentials["username"],
-        "password": pararius_credentials["password"]
+        "username": pararius_uname,
+        "password": pararius_pwd
     }
+    
 
     login_response = requests.post(login_url, data=login_data)
     
