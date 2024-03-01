@@ -19,4 +19,4 @@ jobs:
 
     - name: Run script
       run: |
-        python scrapper.py  # Replace with the actual filename of your script
+        python scraper.py  # Replace with the actual filename of your script
