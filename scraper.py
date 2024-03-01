@@ -8,14 +8,13 @@ import os
 uname = os.environ.get('SCRAPER_UNAME')
 pwd = os.environ.get('SCRAPER_PWD')
 
-
 # Print the current date and time
 current_date_time = datetime.datetime.now()
 print("File last ran on:", current_date_time)  
 
 # URL of the website you want to scrape
 pararius_base_url = "https://www.pararius.com/apartments/leiden/700-1500"
-funda_base_url = "https://www.funda.nl/"
+# funda_base_url = "https://www.funda.nl/"
 
 # Send a GET request to the website
 response = requests.get(pararius_base_url)

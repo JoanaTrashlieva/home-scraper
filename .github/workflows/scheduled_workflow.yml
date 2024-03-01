@@ -30,4 +30,4 @@ jobs:
         uname: ${{ secrets.SCRAPER_UNAME }}
         pwd: ${{ secrets.SCRAPER_PWD }}
       run: |
-        python scraper.py  # Replace with the actual filename of your script
+        python scraper.py
