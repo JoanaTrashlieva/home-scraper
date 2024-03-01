@@ -24,10 +24,13 @@ jobs:
         pip install requests
         pip install bs4
 
-
     - name: Run script
       env: # Or as an environment variable
         uname: ${{ secrets.SCRAPER_UNAME }}
         pwd: ${{ secrets.SCRAPER_PWD }}
       run: |
         python scraper.py
+
+    - name: Terminate background processes
+      run: |
+        pkill -f scraper.py
