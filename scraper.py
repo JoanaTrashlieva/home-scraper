@@ -28,8 +28,8 @@ if not logged_in:
     login_url = "https://www.pararius.com/login"
     
     login_data = {
-        "username": pararius_uname,
-        "password": pararius_pwd
+        "username": uname,
+        "password": pwd
     }
     
 
