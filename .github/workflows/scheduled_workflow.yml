@@ -37,3 +37,5 @@ jobs:
         git config --global user.name "Joana Trashliieva"
         git add -A
         git diff --quiet && git diff --staged --quiet || (git commit -m 'Update files'; git push)
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
