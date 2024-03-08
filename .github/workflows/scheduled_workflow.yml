@@ -16,7 +16,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: 3.x  # Specify your Python version
+        python-version: 3.9
 
     - name: Install Python packages
       run: |
@@ -30,3 +30,10 @@ jobs:
         pwd: ${{ secrets.SCRAPER_PWD }}
       run: |
         python scraper.py
+
+    - name: Commit and push if changes
+      run: |
+        git config --global user.email "j.trashlieva@gmail.com"
+        git config --global user.name "Joana Trashliieva"
+        git add -A
+        git diff --quiet && git diff --staged --quiet || (git commit -m 'Update files'; git push)
