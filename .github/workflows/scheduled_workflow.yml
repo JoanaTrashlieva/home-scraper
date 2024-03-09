@@ -34,7 +34,7 @@ jobs:
     - name: Commit and push if changes
       run: |
         git config --global user.email "j.trashlieva@gmail.com"
-        git config --global user.name "Joana Trashliieva"
+        git config --global user.name "Joana Trashlieva"
         git add -A
         git diff --quiet && git diff --staged --quiet || (git commit -m 'Update files'; git push origin HEAD:main)
       env:
