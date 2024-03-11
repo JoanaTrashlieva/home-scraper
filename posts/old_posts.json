@@ -1,5 +1,11 @@
 [
   {
+    "title": "\n\n            \n            Flat Mauritsstraat\n\n                            \n"
+  },
+  {
+    "address": "\n            2316 ST Leiden (Noorderkwartier)\n        "
+  },
+  {
     "title": "\n\n            \n            Flat Lotte Beesestraat\n\n                            \n"
   },
   {
@@ -10,11 +16,5 @@
   },
   {
     "address": "\n            2312 GK Leiden (Marewijk)\n        "
-  },
-  {
-    "title": "\n\n            \n            Flat Breestraat 89 B\n\n                            \n"
-  },
-  {
-    "address": "\n            2311 CK Leiden (Pieterswijk)\n        "
   }
 ]
