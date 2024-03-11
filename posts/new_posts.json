@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n            \n            Flat Breestraat 8 C\n\n                            \n"
-  },
-  {
-    "address": "\n            2311 CR Leiden (Pieterswijk)\n        "
-  },
-  {
     "title": "\n\n            \n            Flat Mauritsstraat\n\n                            \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n            2331 KG Leiden (Dobbewijk-Zuid)\n        "
+  },
+  {
+    "title": "\n\n            \n            Flat Klimmende Leeuwsteeg\n\n                            \n"
+  },
+  {
+    "address": "\n            2312 GK Leiden (Marewijk)\n        "
   }
 ]
