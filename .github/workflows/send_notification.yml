@@ -3,6 +3,7 @@ name: Send Notification
 on:
   repository_dispatch:
     types: [notify-ios]
+    workflow_dispatch:  # Manually trigger the workflow
 
 jobs:
   send-notification:
