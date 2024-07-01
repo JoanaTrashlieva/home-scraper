@@ -1,5 +1,11 @@
 [
   {
+    "title": "\n\n        \n        Flat Ir. Driessenstraat\n\n                    \n"
+  },
+  {
+    "address": "\n            2312 KZ Leiden (Pancras-Oost)\n        "
+  },
+  {
     "title": "\n\n        \n        Flat Korte Hansenstraat\n\n                    \n"
   },
   {
@@ -10,11 +16,5 @@
   },
   {
     "address": "\n            2311 CR Leiden (Pieterswijk)\n        "
-  },
-  {
-    "title": "\n\n        \n        Studio Lage Rijndijk\n\n                    \n"
-  },
-  {
-    "address": "\n            2315 JJ Leiden (De Kooi)\n        "
   }
 ]
