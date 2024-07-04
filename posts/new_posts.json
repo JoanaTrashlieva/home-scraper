@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n        \n        Flat Volmolengracht\n\n                    \n"
-  },
-  {
-    "address": "\n            2312 PH Leiden (Noordvest)\n        "
-  },
-  {
     "title": "\n\n        \n        Flat Vendelstraat 11\n\n                    \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n            2311 CB Leiden (Academiewijk)\n        "
+  },
+  {
+    "title": "\n\n        \n        House Onyxstraat 7\n\n                    \n"
+  },
+  {
+    "address": "\n            2332 LD Leiden (Hoge Mors)\n        "
   }
 ]
