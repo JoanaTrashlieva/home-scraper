@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n        \n        Flat Herengracht\n\n                    \n"
-  },
-  {
-    "address": "\n            2312 LD Leiden (Pancras-Oost)\n        "
-  },
-  {
     "title": "\n\n        \n        Room Pieterskerk-Choorsteeg\n\n                    \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n            2313 KL Leiden (Rijndijkbuurt)\n        "
+  },
+  {
+    "title": "\n\n        \n        Flat Vendelstraat\n\n                    \n"
+  },
+  {
+    "address": "\n            2316 XN Leiden (Stationskwartier)\n        "
   }
 ]
