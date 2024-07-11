@@ -1,5 +1,11 @@
 [
   {
+    "title": "\n\n        \n        Flat Haverstraat\n\n                    \n"
+  },
+  {
+    "address": "\n            2311 NN Leiden (Levendaal-Oost)\n        "
+  },
+  {
     "title": "\n\n        \n        Flat Kralendijkkade\n\n                    \n"
   },
   {
@@ -10,11 +16,5 @@
   },
   {
     "address": "\n            2311 TR Leiden (Pieterswijk)\n        "
-  },
-  {
-    "title": "\n\n        \n        Flat Noordeinde\n\n                    \n"
-  },
-  {
-    "address": "\n            2311 CB Leiden (Academiewijk)\n        "
   }
 ]
