@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n        \n        Flat Herengracht\n\n                    \n"
-  },
-  {
-    "address": "\n            2312 LD Leiden (Pancras-Oost)\n        "
-  },
-  {
     "title": "\n\n        \n        Flat Houtmarkt\n\n                    \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n            2312 TV Leiden (Pancras-Oost)\n        "
+  },
+  {
+    "title": "\n\n        \n        Flat Kralendijkkade\n\n                    \n"
+  },
+  {
+    "address": "\n            2315 ZA Leiden (De Kooi)\n        "
   }
 ]
