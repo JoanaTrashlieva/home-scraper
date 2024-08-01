@@ -1,5 +1,11 @@
 [
   {
+    "title": "\n\n            \n            Flat Hoge Rijndijk\n\n                            \n"
+  },
+  {
+    "address": "\n                2313 KJ Leiden (Rijndijkbuurt)\n            "
+  },
+  {
     "title": "\n\n            \n            Flat Haarlemmerstraat\n\n                            \n"
   },
   {
@@ -10,11 +16,5 @@
   },
   {
     "address": "\n                2318 BZ Leiden (Slaaghwijk)\n            "
-  },
-  {
-    "title": "\n\n            \n            Flat Houtmarkt\n\n                            \n"
-  },
-  {
-    "address": "\n                2312 PZ Leiden (Noordvest)\n            "
   }
 ]
