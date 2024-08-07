@@ -1,5 +1,11 @@
 [
   {
+    "title": "\n\n            \n            Flat Ververstraat\n\n                            \n"
+  },
+  {
+    "address": "\n                2312 LT Leiden (Havenwijk-Noord)\n            "
+  },
+  {
     "title": "\n\n            \n            Flat Haarlemmerstraat\n\n                            \n"
   },
   {
@@ -10,11 +16,5 @@
   },
   {
     "address": "\n                2312 PZ Leiden (Noordvest)\n            "
-  },
-  {
-    "title": "\n\n            \n            Flat Middelstegracht\n\n                            \n"
-  },
-  {
-    "address": "\n                2312 TV Leiden (Pancras-Oost)\n            "
   }
 ]
