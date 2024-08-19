@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n            \n            Flat Langegracht\n\n                            \n"
-  },
-  {
-    "address": "\n                2312 NX Leiden (Noordvest)\n            "
-  },
-  {
     "title": "\n\n            \n            Flat Beschuitsteeg\n\n                            \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n                2321 PW Leiden (Gasthuiswijk)\n            "
+  },
+  {
+    "title": "\n\n            \n            Flat Herengracht\n\n                            \n"
+  },
+  {
+    "address": "\n                2312 LA Leiden (Havenwijk-Zuid)\n            "
   }
 ]
