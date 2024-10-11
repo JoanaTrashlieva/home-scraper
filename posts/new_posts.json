@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n            \n            Flat Kruisstraat\n\n                            \n"
-  },
-  {
-    "address": "\n                2312 BH Leiden (d'Oude Morsch)\n            "
-  },
-  {
     "title": "\n\n            \n            Flat Haarlemmerstraat\n\n                            \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n                2311 RZ Leiden (Pieterswijk)\n            "
+  },
+  {
+    "title": "\n\n            \n            Flat Rosenburch 32\n\n                            \n"
+  },
+  {
+    "address": "\n                2321 PX Leiden (Gasthuiswijk)\n            "
   }
 ]
