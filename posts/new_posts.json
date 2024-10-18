@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n            \n            Flat Poelgeeststraat\n\n                            \n"
-  },
-  {
-    "address": "\n                2316 XL Leiden (Stationskwartier)\n            "
-  },
-  {
     "title": "\n\n            \n            Flat Artemisstraat\n\n                            \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n                2311 TC Leiden (Pieterswijk)\n            "
+  },
+  {
+    "title": "\n\n            \n            Flat Haarlemmerstraat\n\n                            \n"
+  },
+  {
+    "address": "\n                2312 GK Leiden (Marewijk)\n            "
   }
 ]
