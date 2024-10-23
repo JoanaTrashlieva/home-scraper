@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n            \n            Flat Korevaarstraat\n\n                            \n"
-  },
-  {
-    "address": "\n                2311 JS Leiden (Levendaal-West)\n            "
-  },
-  {
     "title": "\n\n            \n            Flat Hogewoerd\n\n                            \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n                2311 HL Leiden (Levendaal-Oost)\n            "
+  },
+  {
+    "title": "\n\n            \n            Room Gerecht\n\n                            \n"
+  },
+  {
+    "address": "\n                2311 TC Leiden (Pieterswijk)\n            "
   }
 ]
