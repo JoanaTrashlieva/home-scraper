@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n            \n            Flat Sint Aagtenstraat\n\n                            \n"
-  },
-  {
-    "address": "\n                2312 CB Leiden (d'Oude Morsch)\n            "
-  },
-  {
     "title": "\n\n            \n            Flat Artemisstraat\n\n                            \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n                2321 RA Leiden (Gasthuiswijk)\n            "
+  },
+  {
+    "title": "\n\n            \n            Flat Rosenburch 121\n\n                            \n"
+  },
+  {
+    "address": "\n                2321 RC Leiden (Gasthuiswijk)\n            "
   }
 ]
