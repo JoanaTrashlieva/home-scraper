@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n            \n            Flat Artemisstraat\n\n                            \n"
-  },
-  {
-    "address": "\n                2321 LA Leiden (Cronestein)\n            "
-  },
-  {
     "title": "\n\n            \n            Flat Rosenburch 54\n\n                            \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n                2321 RC Leiden (Gasthuiswijk)\n            "
+  },
+  {
+    "title": "\n\n            \n            Flat Bouwelouwensteeg\n\n                            \n"
+  },
+  {
+    "address": "\n                2312 VS Leiden (Marewijk)\n            "
   }
 ]
