@@ -1,5 +1,11 @@
 [
   {
+    "title": "\n\n            \n            Flat Hoefstraat\n\n                            \n"
+  },
+  {
+    "address": "\n                2311 PP Leiden (Levendaal-West)\n            "
+  },
+  {
     "title": "\n\n            \n            Flat Haarlemmerweg\n\n                            \n"
   },
   {
@@ -10,11 +16,5 @@
   },
   {
     "address": "\n                2311 CB Leiden (Academiewijk)\n            "
-  },
-  {
-    "title": "\n\n            \n            Flat Verbeekstraat 1 B 15\n\n                            \n"
-  },
-  {
-    "address": "\n                2332 CA Leiden (Lage Mors)\n            "
   }
 ]
