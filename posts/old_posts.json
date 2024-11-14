@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n            \n            Flat Hooigracht\n\n                            \n"
-  },
-  {
-    "address": "\n                2312 KT Leiden (Pancras-West)\n            "
-  },
-  {
     "title": "\n\n            \n            Flat Jan Luykenlaan\n\n                            \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n                2312 CD Leiden (De Camp)\n            "
+  },
+  {
+    "title": "\n\n            \n            Room Haarlemmerstraat\n\n                            \n"
+  },
+  {
+    "address": "\n                2312 DJ Leiden (De Camp)\n            "
   }
 ]
