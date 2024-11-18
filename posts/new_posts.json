@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n            \n            Flat Breestraat\n\n                            \n"
-  },
-  {
-    "address": "\n                2311 CM Leiden (Pieterswijk)\n            "
-  },
-  {
     "title": "\n\n            \n            Flat Waldeck Pyrmontstraat\n\n                            \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n                2316 ET Leiden (Groenoord)\n            "
+  },
+  {
+    "title": "\n\n            \n            Studio Haarlemmerstraat\n\n                            \n"
+  },
+  {
+    "address": "\n                2312 GH Leiden (Marewijk)\n            "
   }
 ]
