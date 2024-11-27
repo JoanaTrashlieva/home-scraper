@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n            \n            Flat Haagweg\n\n                            \n"
-  },
-  {
-    "address": "\n                2321 AE Leiden (Haagweg-Noord)\n            "
-  },
-  {
     "title": "\n\n            \n            Flat Rosenburch 92\n\n                            \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n                2311 HS Leiden (Levendaal-Oost)\n            "
+  },
+  {
+    "title": "\n\n            \n            Room Haarlemmerstraat\n\n                            \n"
+  },
+  {
+    "address": "\n                2312 DJ Leiden (De Camp)\n            "
   }
 ]
