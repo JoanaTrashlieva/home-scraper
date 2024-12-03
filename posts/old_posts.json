@@ -1,5 +1,11 @@
 [
   {
+    "title": "\n\n            \n            House Oranjestraat\n\n                            \n"
+  },
+  {
+    "address": "\n                2316 HV Leiden (Noorderkwartier)\n            "
+  },
+  {
     "title": "\n\n            \n            Flat Breestraat\n\n                            \n"
   },
   {
@@ -10,11 +16,5 @@
   },
   {
     "address": "\n                2311 CE Leiden (Academiewijk)\n            "
-  },
-  {
-    "title": "\n\n            \n            Flat Rosenburch 92\n\n                            \n"
-  },
-  {
-    "address": "\n                2321 RC Leiden (Gasthuiswijk)\n            "
   }
 ]
