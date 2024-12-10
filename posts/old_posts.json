@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n            \n            Flat Bachstraat\n\n                            \n"
-  },
-  {
-    "address": "\n                2324 HG Leiden (Fortuinwijk-Zuid)\n            "
-  },
-  {
     "title": "\n\n            \n            Studio Medusastraat\n\n                            \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n                2311 TN Leiden (Pieterswijk)\n            "
+  },
+  {
+    "title": "\n\n            \n            Flat Rapenburg\n\n                            \n"
+  },
+  {
+    "address": "\n                2311 GD Leiden (Academiewijk)\n            "
   }
 ]
