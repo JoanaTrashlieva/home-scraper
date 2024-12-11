@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n            \n            Flat Stationsplein\n\n                            \n"
-  },
-  {
-    "address": "\n                2312 AN Leiden (Stationskwartier)\n            "
-  },
-  {
     "title": "\n\n            \n            Flat Oude Rijn\n\n                            \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n                2315 GS Leiden (De Kooi)\n            "
+  },
+  {
+    "title": "\n\n            \n            Flat Ketelboetersteeg\n\n                            \n"
+  },
+  {
+    "address": "\n                2311 TN Leiden (Pieterswijk)\n            "
   }
 ]
