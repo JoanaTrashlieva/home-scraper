@@ -1,5 +1,11 @@
 [
   {
+    "title": "\n\n            \n            Room Pasteurstraat\n\n                            \n"
+  },
+  {
+    "address": "\n                2316 BW Leiden (Groenoord)\n            "
+  },
+  {
     "title": "\n\n            \n            Flat Caeciliastraat\n\n                            \n"
   },
   {
@@ -10,11 +16,5 @@
   },
   {
     "address": "\n                2316 SN Leiden (Noorderkwartier)\n            "
-  },
-  {
-    "title": "\n\n            \n            Flat Diefsteeg\n\n                            \n"
-  },
-  {
-    "address": "\n                2311 TS Leiden (Pieterswijk)\n            "
   }
 ]
