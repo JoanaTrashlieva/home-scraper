@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n            \n            Room Ir. Driessenstraat\n\n                            \n"
-  },
-  {
-    "address": "\n                2312 KZ Leiden (Pancras-Oost)\n            "
-  },
-  {
     "title": "\n\n            \n            Flat Caeciliastraat\n\n                            \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n                2316 XZ Leiden (Stationskwartier)\n            "
+  },
+  {
+    "title": "\n\n            \n            Flat Oude Rijn\n\n                            \n"
+  },
+  {
+    "address": "\n                2312 HH Leiden (Marewijk)\n            "
   }
 ]
