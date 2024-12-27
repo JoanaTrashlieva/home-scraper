@@ -1,5 +1,11 @@
 [
   {
+    "title": "\n\n            \n            Studio Sophiastraat\n\n                            \n"
+  },
+  {
+    "address": "\n                2316 PS Leiden (Noorderkwartier)\n            "
+  },
+  {
     "title": "\n\n            \n            Flat Haagweg\n\n                            \n"
   },
   {
@@ -10,11 +16,5 @@
   },
   {
     "address": "\n                2321 RB Leiden (Gasthuiswijk)\n            "
-  },
-  {
-    "title": "\n\n            \n            Room Ir. Driessenstraat\n\n                            \n"
-  },
-  {
-    "address": "\n                2312 KZ Leiden (Pancras-Oost)\n            "
   }
 ]
