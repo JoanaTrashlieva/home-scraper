@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n            \n            House Vollersgracht\n\n                            \n"
-  },
-  {
-    "address": "\n                2312 VK Leiden (Marewijk)\n            "
-  },
-  {
     "title": "\n\n            \n            Studio Bouwelouwensteeg\n\n                            \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n                2312 DJ Leiden (De Camp)\n            "
+  },
+  {
+    "title": "\n\n            \n            Room Galgewater\n\n                            \n"
+  },
+  {
+    "address": "\n                2311 VZ Leiden (Academiewijk)\n            "
   }
 ]
