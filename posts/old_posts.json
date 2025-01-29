@@ -1,5 +1,11 @@
 [
   {
+    "title": "\n\n            \n            Flat Haarlemmerstraat\n\n                            \n"
+  },
+  {
+    "address": "\n                2312 DT Leiden (Marewijk)\n            "
+  },
+  {
     "title": "\n\n            \n            Room Flevoweg\n\n                            \n"
   },
   {
@@ -10,11 +16,5 @@
   },
   {
     "address": "\n                2311 TL Leiden (Pieterswijk)\n            "
-  },
-  {
-    "title": "\n\n            \n            Flat Roodborststraat\n\n                            \n"
-  },
-  {
-    "address": "\n                2333 VN Leiden (Vogelwijk)\n            "
   }
 ]
