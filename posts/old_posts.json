@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n            \n            Flat Ir. Driessenstraat\n\n                            \n"
-  },
-  {
-    "address": "\n                2312 KZ Leiden (Pancras-Oost)\n            "
-  },
-  {
     "title": "\n\n            \n            Flat Kralendijkkade\n\n                            \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n                2312 XV Leiden (Marewijk)\n            "
+  },
+  {
+    "title": "\n\n            \n            Flat Condorhorst\n\n                            \n"
+  },
+  {
+    "address": "\n                2317 AT Leiden (Slaaghwijk)\n            "
   }
 ]
