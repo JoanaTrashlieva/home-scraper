@@ -1,5 +1,11 @@
 [
   {
+    "title": "\n\n            \n            Flat Hoge Morsweg\n\n                            \n"
+  },
+  {
+    "address": "\n                2332 RX Leiden (Hoge Mors)\n            "
+  },
+  {
     "title": "\n\n            \n            Flat Oude Rijn\n\n                            \n"
   },
   {
@@ -10,11 +16,5 @@
   },
   {
     "address": "\n                2321 LB Leiden (Cronestein)\n            "
-  },
-  {
-    "title": "\n\n            \n            Flat Granaatplein 83\n\n                            \n"
-  },
-  {
-    "address": "\n                2332 LG Leiden (Hoge Mors)\n            "
   }
 ]
