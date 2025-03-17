@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n            \n            Flat Korte Hansenstraat\n\n                            \n"
-  },
-  {
-    "address": "\n                2316 BN Leiden (Groenoord)\n            "
-  },
-  {
     "title": "\n\n            \n            Flat Hoge Rijndijk\n\n                            \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n                2312 HB Leiden (Pancras-West)\n            "
+  },
+  {
+    "title": "\n\n            \n            Flat Alfabetweg\n\n                            \n"
+  },
+  {
+    "address": "\n                2321 LB Leiden (Cronestein)\n            "
   }
 ]
