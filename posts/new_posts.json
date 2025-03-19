@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n            \n            Flat Zonneveldstraat\n\n                            \n"
-  },
-  {
-    "address": "\n                2311 RV Leiden (Pieterswijk)\n            "
-  },
-  {
     "title": "\n\n            \n            Flat Schouwenhove\n\n                            \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n                2315 EN Leiden (De Kooi)\n            "
+  },
+  {
+    "title": "\n\n            \n            Flat Hoge Rijndijk\n\n                            \n"
+  },
+  {
+    "address": "\n                2314 AK Leiden (Meerburg)\n            "
   }
 ]
