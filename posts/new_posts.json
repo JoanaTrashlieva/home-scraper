@@ -1,5 +1,11 @@
 [
   {
+    "title": "\n\n            \n            Studio Haarlemmerstraat\n\n                            \n"
+  },
+  {
+    "address": "\n                2312 GH Leiden (Marewijk)\n            "
+  },
+  {
     "title": "\n\n            \n            Flat Sint Aagtenstraat 1 D\n\n                            \n"
   },
   {
@@ -10,11 +16,5 @@
   },
   {
     "address": "\n                2315 KA Leiden (De Waard)\n            "
-  },
-  {
-    "title": "\n\n            \n            Flat Oude Singel 116 A\n\n                            \n"
-  },
-  {
-    "address": "\n                2312 RE Leiden (Noordvest)\n            "
   }
 ]
