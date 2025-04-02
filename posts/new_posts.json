@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n            \n            Flat Haarlemmerstraat\n\n                            \n"
-  },
-  {
-    "address": "\n                2312 DT Leiden (Marewijk)\n            "
-  },
-  {
     "title": "\n\n            \n            Flat Schutterstraat\n\n                            \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n                2312 ZT Leiden (Transvaalbuurt)\n            "
+  },
+  {
+    "title": "\n\n            \n            Studio Haarlemmerstraat\n\n                            \n"
+  },
+  {
+    "address": "\n                2312 GH Leiden (Marewijk)\n            "
   }
 ]
