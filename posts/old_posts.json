@@ -1,11 +1,5 @@
 [
   {
-    "title": "\n\n            \n            Flat Legewerfsteeg\n\n                            \n"
-  },
-  {
-    "address": "\n                2312 GW Leiden (Marewijk)\n            "
-  },
-  {
     "title": "\n\n            \n            Room Hogewoerd 128 AB\n\n                            \n"
   },
   {
@@ -16,5 +10,11 @@
   },
   {
     "address": "\n                2311 TC Leiden (Pieterswijk)\n            "
+  },
+  {
+    "title": "\n\n            \n            Flat Schutterstraat\n\n                            \n"
+  },
+  {
+    "address": "\n                2316 XJ Leiden (Stationskwartier)\n            "
   }
 ]
