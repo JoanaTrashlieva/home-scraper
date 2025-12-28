@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch:  # Manually trigger the workflow
+  workflow_dispatch:  # Allow manual trigger
 
 jobs:
   send-notification:

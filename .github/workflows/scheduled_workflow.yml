@@ -2,8 +2,8 @@ name: Run scraper every hour Monday through Friday 7am-9pm
 
 on:
  schedule:
-   - cron: '*/15 7-21 * * 1-5'  #run every weekday (Monday through Friday) between 7 am and 9 pm
-  workflow_dispatch:  # Manually trigger the workflow
+   - cron: '0 12 * * *'  # run every day at 12:00 UTC (7am EST)
+  workflow_dispatch:  # Allow manual trigger
 
 jobs:
   run-script:
@@ -25,7 +25,7 @@ jobs:
         pip install bs4
 
     - name: Run script
-      env: # Or as an environment variable
+      env:
         uname: ${{ secrets.SCRAPER_UNAME }}
         pwd: ${{ secrets.SCRAPER_PWD }}
       run: |
