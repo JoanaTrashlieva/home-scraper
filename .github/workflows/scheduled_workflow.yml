@@ -1,4 +1,4 @@
-name: Run scraper every hour Monday through Friday 7am-9pm
+name: Run scraper every day
 
 on:
  schedule:
