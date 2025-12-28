@@ -2,8 +2,8 @@ name: Run scraper every day
 
 on:
  schedule:
-   - cron: '0 12 * * *'  # run every day at 12:00 UTC (7am EST)
-  workflow_dispatch:  # Allow manual trigger
+  - cron: '0 12 * * *'  # run every day at 12:00 UTC (7am EST)
+ workflow_dispatch:  # Allow manual trigger
 
 jobs:
   run-script:
